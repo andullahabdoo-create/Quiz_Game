@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.arabicquiz",
+  "appName": "Arabic Quiz",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init)",
+      "Bash(git add -A)",
+      "Bash(git -c user.name=\"Claude\" -c user.email=\"noreply@anthropic.com\" commit -m \"$(cat <<''EOF''\nAdd Arabic quiz game with Capacitor Android build workflow\n\nInclude www/ (index.html, style.css, app.js), package.json,\ncapacitor.config.json, and GitHub Actions workflow to build the APK.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
